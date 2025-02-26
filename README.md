@@ -56,4 +56,3 @@ Provide an example of a vague prompt and then improve it by making it clear, spe
 example: tell me about computers
 correct: teach me about computers, their history, evolution, capabilities and  limitations.
   this prompt will focus on specifics and cover a wider area, hence a better response alltogether.
-
