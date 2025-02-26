@@ -8,7 +8,6 @@ Explain what software engineering is and discuss its importance in the technolog
 Systematic application of engineering principles, methods, and tools to the development and maintenance of high-quality software systems. It involves the design, development, testing, deployment, and maintenance of software products.
 significance:Enables the creation of software applications and systems that power various aspects of modern life, including communication, commerce, entertainment, and healthcare.
 
-
 Identify and describe at least three key milestones in the evolution of software engineering.
 1. Development of programming languages, ie,c#
 2. Establishment if SE as a discipline, 1960S
@@ -23,7 +22,6 @@ Testing: Conducting various tests to ensure the software meets quality standards
 Deployment: Releasing the software to users or customers.
 Maintenance: Providing ongoing support, updates, and enhancements to the software after deployment.
 
-
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 Waterfall: Sequential approach with distinct phases flowing downwards like a waterfall while agileis an iterative and incremental approach focused on flexibility, collaboration, and responding to change.
 
@@ -34,16 +32,15 @@ Project Manager: Oversees the planning, execution, and delivery of software proj
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 IDEs: Provide comprehensive tools for writing, debugging, and testing code.
-  example, vs code.
+example, vs code.
 VSCs: Software tools for tracking changes to source code and coordinating work among team members.
-  Example, git
+Example, git
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 Changing user requirements
 Tight deadlines
 technical debt and limited budgets
 stategies: use agile methodologies, prioritize taskdd, reassesment of goals , and effective communication with team and customer.
-
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 Importance. Ensures that software products meet specified quality standards and functional requirements.
@@ -52,9 +49,7 @@ Integration Testing: Testing interactions between different components or subsys
 System Testing: Testing the entire software system as a whole.
 Acceptance Testing: Testing the software against user requirements to ensure it meets user needs.
 
-
 #Part 2: Introduction to AI and Prompt Engineering
-
 
 Define prompt engineering and discuss its importance in interacting with AI models.
 It deals with crafting questions or statements to get the best possible responses from AI models. 
